@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-//Comment2
+//Comment22
 ?>
